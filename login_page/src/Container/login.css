@@ -1,0 +1,19 @@
+.wrapper
+{
+    text-align: center;
+}
+
+.inner>input
+{
+    margin: 10px;
+}
+
+.button
+{
+    margin: 20px;
+}
+
+.welcome
+{
+    text-align: center;
+}
